@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "847154315894",
+    "project_id": "ironman-a697d",
+    "storage_bucket": "ironman-a697d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:847154315894:android:addffc00107135579d9557",
+        "android_client_info": {
+          "package_name": "com.example.ironman"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDOcAJ-BMn3-io8YRnsXJ1_EaWDfpB3L-M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
